@@ -1,6 +1,6 @@
 {
   "name": "@screenful/asana",
-  "version": "0.17.2",
+  "version": "0.18.0",
   "description": "Official NodeJS and BrowserJS client for the Asana API",
   "main": "index.js",
   "scripts": {
@@ -23,25 +23,25 @@
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "homepage": "https://github.com/Screenful/node-asana",
   "dependencies": {
-    "bluebird": "^2.3.0",
+    "bluebird": "^3.0.0",
     "browser-request": "^0.3.2",
     "lodash": "^4.17.11",
     "readline": "^1.3.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
+    "browserify": "^16.5.1",
     "gulp": "^4.0.2",
     "gulp-bump": "^3.0.0",
     "gulp-filter": "^5.1.0",
     "gulp-git": "^2.5.1",
     "gulp-istanbul": "^1.1.3",
     "gulp-jshint": "^2.1.0",
-    "gulp-mocha": "^6.0.0",
+    "gulp-mocha": "^7.0.2",
     "gulp-shell": "^0.7.1",
     "gulp-tag-version": "^1.2.1",
     "gulp-uglify": "^3.0.0",
-    "jshint": "^2.9.6",
+    "jshint": "^2.11.0",
     "jshint-stylish": "^2.2.1",
     "rewire": "^4.0.1",
     "sinon": "^7.3.2",
